@@ -4,7 +4,7 @@
 <img align="center" height=340 width=440 src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadaenko&label=Profile%20views&color=0e75b6&style=flat" alt="dadaenko" /> </p>
 
-- 🔭 I’m currently working as a QA Engineer for Sync.AI in Kyiv. Besides, whenever there is some time and inspiration, I work on **my pet projects.**
+- 🔭 I’m currently working as a QA Engineer in Kyiv. Besides, whenever there is some time and inspiration, I work on **my pet projects.**
 
 - 🌱 I’m currently learning **Java Masterclass and API RESTAssured.**
 
