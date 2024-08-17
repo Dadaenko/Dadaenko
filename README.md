@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daria</h1>
-<h3 align="center">A quality assurance tester and an aspiring software developer.</h3>
+<h3 align="center">A QA from Kyiv, Ukraine.</h3>
 <img align="center" height=340 width=440 src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadaenko&label=Profile%20views&color=0e75b6&style=flat" alt="dadaenko" /> </p>
 
