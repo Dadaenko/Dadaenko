@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Web development and anything about software testing I can put my finger on.**
 
-- 📫 How to reach me **darya.makarenko@gmail.com**
-
 - ⚡ Fun fact **I love oil painting, checkout my Instagram account.**
 
 <h3 align="left">Connect with me:</h3>
